@@ -76,15 +76,6 @@ communication_app/
   flutter build ios --release
   ```
 
----
-
-## 👨‍💻 Developer
-
-- **You** – Mobile App Developer
-- **SDK Provider** – Custom backend and media handling
-
----
-
 ## 📜 License
 
 This project is licensed for demo and development purposes. Contact us for full licensing and production deployment options.
